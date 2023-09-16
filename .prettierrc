@@ -1,0 +1,6 @@
+{
+    "camelcase": "off",
+    "semi": false,
+    "singleQuote": true,
+    "endOfLine": "auto"
+}
